@@ -26,7 +26,7 @@ Este repositório tem como objetivo fornecer recursos, exemplos e ferramentas qu
 * Fundamentos de Engenharia.
 * [Processos e Operações na Engenharia Ambiental](https://github.com/lnrddev/programacaonaengenharia/blob/main/processosoperacoes.md).
 * Química Analítica.
-* Tratamento de água.
+* [Tratamento de água](https://github.com/lnrddev/programacaonaengenharia/blob/main/tratamentoagua.md).
 
 ## Pré-requisitos
 * Para a linguaguem Python, utilizar o Jupyter Notebook e Python disponíveis via Anaconda (https://anaconda.org).
