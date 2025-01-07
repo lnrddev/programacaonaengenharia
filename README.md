@@ -24,7 +24,7 @@ Este repositório tem como objetivo fornecer recursos, exemplos e ferramentas qu
 
 ## Projetos
 * Fundamentos de Engenharia.
-* Processos e Operações na Engenharia Ambiental.
+* [Processos e Operações na Engenharia Ambiental](https://github.com/lnrddev/programacaonaengenharia/blob/main/processosoperacoes.md).
 * Química Analítica.
 * Tratamento de água.
 
