@@ -7,5 +7,6 @@ Aplicações na área de tratamento de águas de abastecimento.
 
 **Floculação**
 
-* [Floculador hidráulico vertical (Python)](https://github.com/lnrddev/programacaonaengenharia/blob/main/python_scripts/floculador_hidraulico_vertical.ipynb).
 * [Floculador hidráulico horizontal (Python)](https://github.com/lnrddev/programacaonaengenharia/blob/main/python_scripts/floculador_hidraulico_horizontal.ipynb).
+* [Floculador hidráulico vertical (Python)](https://github.com/lnrddev/programacaonaengenharia/blob/main/python_scripts/floculador_hidraulico_vertical.ipynb).
+
