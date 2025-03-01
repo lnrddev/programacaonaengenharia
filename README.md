@@ -41,3 +41,5 @@ Se tiver dúvidas ou sugestões, entre em contato:
 * Email: leonardo.damasceno@unifal-mg.edu.br
 * LinkedIn: https://www.linkedin.com/in/damasceno/
 * GitHub: http://www.github.com/lnrddev
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flnrddev%2Fprogramacaonaengenharia&label=Visitantes&countColor=%23263759)
